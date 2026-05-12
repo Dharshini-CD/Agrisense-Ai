@@ -15,9 +15,7 @@ import React from 'react';
               <p className="text-gray-600 dark:text-gray-400 mb-8">
                 Coming soon
               </p>
-              <p className="text-sm text-gray-500 dark:text-gray-500">
-                Use Meku to generate content for this page
-              </p>
+             
             </div>
           </main>
 
